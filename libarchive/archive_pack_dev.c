@@ -33,6 +33,8 @@
 
 #include "archive_platform.h"
 
+#include <sys/sysmacros.h>
+
 #if HAVE_SYS_CDEFS_H
 #include <sys/cdefs.h>
 #endif
